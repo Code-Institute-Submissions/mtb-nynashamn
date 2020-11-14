@@ -1,28 +1,30 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Oswald:300');
 
 
-h4{
-    font-family: Oswald;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #FFFAF0;
-    background-color: #9ACD32;
-}
 
-.logo{
+.logo {
     float: left;
     font-size: 200%;
     padding-top: 10px;
     padding-left: 10px;
+    font-family: "Oswald", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #FFFAF0;
 }
 
 .nav{
+    font-family: "Oswald", sans-serif;
     font-size: 110%;
     letter-spacing: 4px;
     float: right;
     padding-top: 10px;
+    padding-right: 10px;
 }
-
+.logo, .nav{
+    line-height: 75px;
+    background-color: #9ACD32;
+}
 .nav li {
     padding-right: 15px;
 }
@@ -30,11 +32,24 @@ h4{
 .nav a {
     text-decoration: none;
     color:#FFFAF0;
-
-}
-footer {
-    height: 150px;
     background-color: #9ACD32;
+ }
+
+
+.hero-image{
+    width: 200px;
+    height: 25%;
+    ;
+}
+p {
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+}
+
+footer {
+    height: 125px;
+    background-color: #9ACD32;
+    
 }
 .social-networks {
     text-align: center;
@@ -45,6 +60,6 @@ footer {
 .social-networks i{
     font-size: 160%;
     margin: 1%;
-    padding: 5%;
+    padding: 1%;
     color: #FFFAF0;
 }
