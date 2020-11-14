@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Oswald:300');
+
+
+h4{
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #FFFAF0;
+    background-color: #9ACD32;
+}
+
+.logo{
+    float: left;
+    font-size: 200%;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.nav{
+    font-size: 110%;
+    letter-spacing: 4px;
+    float: right;
+    padding-top: 10px;
+}
+
+.nav li {
+    padding-right: 15px;
+}
+
+.nav a {
+    text-decoration: none;
+    color:#FFFAF0;
+
+}
+footer {
+    height: 150px;
+    background-color: #9ACD32;
+}
+.social-networks {
+    text-align: center;
+}
+.social-networks li {
+    display: inline;
+}
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #FFFAF0;
+}
