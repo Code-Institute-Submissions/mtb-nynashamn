@@ -7,12 +7,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
     <link rel="stylesheet" href="assets/css/style.css">
     <title>MTB Nynäshamn</title>
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-        integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 <body>
     <header>
-        <h4 class="logo">MTB Nynäshamn</h4>
+        <div>
+            <h4 class="logo">MTB Nynäshamn</h4>
+        </div>
         <div>
             <ul class="nav">
                 <li class="nav-item">
@@ -33,18 +34,32 @@
             </ul>
         </div>
     </header>
-    <section>
-        <div id="hero-image">
 
+    <section>
+    ​   <picture class="hero-image">
+            <source srcset="assets/images/mtb.JPG" type="image/svg+xml">
+            <img src="assets/images/mtb.JPG" class="img-fluid img-thumbnail" alt="mountainbiking">
+        </picture>
+    </section>
+
+    <section id="ethos">
+        <div id="left">
+            <div class="left-text">
+                <p> Whether you’re a beginner wanting to develop your skills or an expert rider in search of thrills, then look no further. We’ve got a fantastic range of trails, stunning scenery and a warm welcome waiting just for you. </p>
+            </div>
+        </div>    
+        <div id="right">    
+            <div class="right-text">
+                <p>All our  trails  are graded by colour. If you’re new to the sport, start with a gentle green or some blue-graded easy singletrack. Everyone loves blues – even the experts. Many of our trail centres have short skills loops too, where you can practise some of the features you’ll find on the trails.</p>
+            </div>
         </div>
-    
     </section>
     <footer>
         <ul class="social-networks">
-            <li><a href="htttp://facebook.com" target="_blank"><i class="fab fa-facebook"></i></li>
-            <li><a href="http://instagram.com" target="_blank"><i class="fab fa-instagram"></i></li>
-            <li><a href="http://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></li>
-            <li><a href="http://youtube.com" target="_blank"><i class="fab fa-youtube"></i></li>
+            <li><a href="htttp://facebook.com" target="_blank"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="http://instagram.com" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            <li><a href="http://linkedin.com" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="http://youtube.com" target="_blank"><i class="fab fa-youtube"></i></a></li>
         </ul>
     </footer>
 </body>
