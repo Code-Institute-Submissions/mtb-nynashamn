@@ -10,15 +10,13 @@
     text-transform: uppercase;
     background: #FFFFFF;
     color: #9ACD32;
-    
 }
-
 .nav {
     font-family: "Oswald", sans-serif;
     font-size: 110%;
     letter-spacing: 4px;
     float: right;
-    padding-top: 10px;
+    padding-top: 15px;
     padding-left: 10px;
     background-color: #FFFFFF;
 
@@ -34,9 +32,23 @@
     text-decoration: none;
     color: #9ACD32;
  }
-
+section h5{
+    color: #778899;
+    text-align: center;
+}
+.text-center {
+    color: #778899;
+    margin: 30px;
+}
+.text-uppercase {
+    margin-bottom: 20px;
+}
+.progress {
+    margin-bottom: 20px;
+}
 .container {
-    text-align: right;
+    color: #778899;
+    text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
 }
@@ -45,13 +57,9 @@
     padding: 30px;
 }
 
-#skills {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
+.text-center {
+    text-align: center;
 }
-
 footer {
     height: 70px;
     background-color: #9ACD32;
@@ -70,6 +78,10 @@ footer {
     color: #FFFAF0;
 }
 
-.text-center {
-    text-transform: uppercase;
+.col i {
+    color: black;
+    font-size: 200%;
+    margin-bottom: 15px;
+   
 }
+
