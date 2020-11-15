@@ -1,9 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Oswald:300');
-*{
-    margin:0;
-    padding:0;
-    border:0;
-}
 
 .logo {
     float: left;
@@ -28,7 +23,7 @@
     background-color: #FFFFFF;
 
 }
-.logo, .nav{
+.logo .nav{
     line-height: 75px;
 }
 .nav li {
@@ -40,54 +35,28 @@
     color: #9ACD32;
  }
 
-#hero-outer{
-    height:700px;
-    width: 100%;
-    overflow: hidden;
-    position: relative;
-}
-
-#hero-image {
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
-    opacity: 1;
-}
-@keyframes hero-zoom {
-    from{
-        transform: scale(1);
-    }
-    to{
-        transform: scale(3);
-    }
-
-}
-
-
-
-
-
 .container {
-    text-align: center;
+    text-align: right;
     padding-top: 15px;
     padding-bottom: 15px;
 }
-
 .row {
     margin: 30px;
     padding: 30px;
 }
 
-.fas-fa-globe {
-    height: 100px;
+#skills {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
+
 footer {
     height: 70px;
     background-color: #9ACD32;
-    margin-bottom: 0px;
-    
-    
 }
+
 .social-networks {
     text-align: center;
 }
@@ -99,5 +68,8 @@ footer {
     margin: 1%;
     padding: 1%;
     color: #FFFAF0;
-    
+}
+
+.text-center {
+    text-transform: uppercase;
 }
