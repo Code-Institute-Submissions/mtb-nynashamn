@@ -39,13 +39,23 @@
 .index h3:hover {
     color: #F9F103;
 }
-.text-center {
+
+.container-index{
+    color: #778899;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.text-index {
     color: #778899;
     margin: 30px;
     margin-bottom: 0px;
     font-family: "Oswald",sans-serif; 
+    text-align: center;
 }
-
+.container-index i {
+    font-size: 150%;
+}
 .container-index i:hover {
     color: #F9F103;
     font-size: 200%;
@@ -68,12 +78,6 @@
 }
 .container-trails p{
     font-family: "Roboto",sans-serif; 
-}
-.container-index{
-    color: #778899;
-    text-align: center;
-    padding-top: 15px;
-    padding-bottom: 15px;
 }
 
 .progress {
