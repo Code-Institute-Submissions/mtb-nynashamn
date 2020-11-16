@@ -11,6 +11,7 @@
     background: #FFFFFF;
     color: #9ACD32;
 }
+
 .nav {
     font-family: "Oswald", sans-serif;
     font-size: 110%;
@@ -19,7 +20,10 @@
     padding-top: 15px;
     padding-left: 10px;
     background-color: #FFFFFF;
-
+}
+.nav li:hover{
+    color:#778899;
+    text-decoration: underline;
 }
 .logo .nav{
     line-height: 75px;
@@ -32,13 +36,19 @@
     text-decoration: none;
     color: #9ACD32;
  }
-section h5{
+
+}
+section h3{
     color: #778899;
     text-align: center;
+}
+.index h3:hover {
+    color: #9ACD32;
 }
 .text-center {
     color: #778899;
     margin: 30px;
+    margin-bottom: 0px;
 }
 .text-uppercase {
     margin-bottom: 20px;
@@ -46,7 +56,7 @@ section h5{
 .progress {
     margin-bottom: 20px;
 }
-.container {
+.container{
     color: #778899;
     text-align: center;
     padding-top: 15px;
@@ -56,13 +66,28 @@ section h5{
     margin: 30px;
     padding: 30px;
 }
-
-.text-center {
-    text-align: center;
+/**Love Running copyright**/
+#center-image {
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-color: #9ACD32;
+    border-width: 2px;
+    background-color: none;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 20px;
 }
+#center-image-bg {
+    background: url(https://github.com/kuszturareka/mtb-nynashamn/blob/82256fdfa2530d9421c1e983b4df9b997b2c9943/assets/images/3.jpg) no-repeat center center;
+    height: 25%;
+    border-radius: 50%;
+}
+/**Love Running copyright**/
 footer {
-    height: 70px;
+    height: 100px;
     background-color: #9ACD32;
+    padding: 0px;
 }
 
 .social-networks {
@@ -77,11 +102,7 @@ footer {
     padding: 1%;
     color: #FFFAF0;
 }
-
-.col i {
-    color: black;
-    font-size: 200%;
-    margin-bottom: 15px;
-   
+.container i:hover {
+    color: #9ACD32;
+    font-size: 150%;
 }
-
