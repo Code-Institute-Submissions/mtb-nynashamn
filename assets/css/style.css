@@ -134,6 +134,17 @@
     height: 150%;
 }
 
+.code-of-conduct-header {
+    text-align: center;
+    color: #778899;
+    font-family: "Oswald",sans-serif; 
+}
+
+.code-of-conduct-body {
+    text-align: center;
+    color: #778899;
+}
+
 footer {
     height: 100px;
     background-color: #9ACD32;
