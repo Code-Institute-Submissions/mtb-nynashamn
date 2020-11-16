@@ -97,6 +97,7 @@
     font-family: "Oswald", sans-serif;
     letter-spacing: 2px;
     background-color: #ffffff;
+    text-decoration: underline;
 }
 .description p {
      list-style-type: none;
