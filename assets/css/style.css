@@ -36,11 +36,6 @@
     color: #9ACD32;
  }
 
-}
-section h3{
-    color: #778899;
-    text-align: center;
-}
 .index h3:hover {
     color: #F9F103;
 }
@@ -48,24 +43,63 @@ section h3{
     color: #778899;
     margin: 30px;
     margin-bottom: 0px;
+    font-family: "Oswald",sans-serif; 
+}
+
+.container-index i:hover {
+    color: #F9F103;
+    font-size: 200%;
+}
+.index .col p{
+    font-family: "Roboto",sans-serif; 
+}
+.index .col p:hover{
+
 }
 .text-uppercase {
     margin-bottom: 20px;
+    font-family: "Oswald", sans-serif;
 }
-.progress {
-    margin-bottom: 20px;
-}
-.container{
+.container-trails{
     color: #778899;
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
 }
+.container-trails p{
+    font-family: "Roboto",sans-serif; 
+}
+.container-index{
+    color: #778899;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.progress {
+    margin-bottom: 20px;
+}
+
 .row {
     margin: 30px;
     padding: 30px;
 }
-/**Love Running copyright**/
+.container-events h5 {
+    text-align: center;
+    color: #778899;
+    font-family: "Oswald", sans-serif;
+    letter-spacing: 2px;
+    background-color: #FFFAF0;
+}
+.description p {
+     list-style-type: none;
+     text-align: center;
+     color:#778899;
+     margin: 0px;
+     background-color: #FFFAF0;
+     font-family: "Roboto", sans-serif;
+}
+
 #center-image {
     width: 300px;
     height: 300px;
@@ -74,13 +108,13 @@ section h3{
     border-width: 2px;
     border-radius: 50%;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 45px;
 }
 #center-image-bg {
     background: url(https://github.com/kuszturareka/mtb-nynashamn/blob/b805626945c914f4abb3a13b1c99b77626f15084/assets/images/3.jpg)no-repeat center;
     height: 150%;
 }
-/**Love Running copyright**/
+
 footer {
     height: 100px;
     background-color: #9ACD32;
@@ -100,7 +134,4 @@ footer {
     padding: 1%;
     color: #FFFAF0;
 }
-.container i:hover {
-    color: #F9F103;
-    font-size: 200%;
-}
+
