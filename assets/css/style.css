@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto|Oswald:300');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Oswald:300; 400; 500');
 
 .logo {
     float: left;
@@ -10,6 +10,7 @@
     text-transform: uppercase;
     background: #FFFFFF;
     color: #9ACD32;
+    font-weight: bold;
     
 }
 
@@ -21,6 +22,7 @@
     padding-top: 15px;
     padding-left: 10px;
     background-color: #FFFFFF;
+    font-weight: bold;
 
 }
 
@@ -66,14 +68,11 @@
 
 .container-index i:hover {
     color: #F9F103;
-    font-size: 200%;
 }
 
 .index .col p {
     font-family: "Roboto",sans-serif; 
 }
-
-/**.index .col p:hover{}**/
 
 .text-uppercase {
     margin-bottom: 20px;
@@ -119,6 +118,9 @@
 }
 
 #center-image {
+    background: url(https://github.com/kuszturareka/mtb-nynashamn/blob/22697a4545c9c84e251200905b8b2ad25d2d4b6c/assets/images/3.jpg)
+}
+#center-image {
     width: 300px;
     height: 300px;
     border-style: solid;
@@ -129,10 +131,6 @@
     margin-bottom: 45px;
 }
 
-#center-image-bg {
-    background: url(https://github.com/kuszturareka/mtb-nynashamn/blob/b805626945c914f4abb3a13b1c99b77626f15084/assets/images/3.jpg)no-repeat center center;
-    height: 150%;
-}
 
 .code-of-conduct-header {
     text-align: center;
@@ -140,11 +138,27 @@
     font-family: "Oswald",sans-serif; 
 }
 
+.code-of-conduct-h5 {
+    
+}
+
 .code-of-conduct-body {
     text-align: center;
     color: #778899;
+    font-family: "Roboto",sans-serif;
 }
 
+.how-to-prepare-h3 {
+    text-align: center;
+    color: #778899;
+    font-family: "Oswald",sans-serif;
+}
+
+.how-to-prepare-body {
+    text-align: center;
+    color: #778899;
+    font-family: "Roboto",sans-serif;
+}
 footer {
     height: 100px;
     background-color: #9ACD32;
