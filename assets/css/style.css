@@ -10,6 +10,7 @@
     text-transform: uppercase;
     background: #FFFFFF;
     color: #9ACD32;
+    
 }
 
 .nav {
@@ -20,6 +21,7 @@
     padding-top: 15px;
     padding-left: 10px;
     background-color: #FFFFFF;
+
 }
 .nav li:hover{
     text-decoration: underline;
@@ -49,7 +51,7 @@
 .text-index {
     color: #778899;
     margin: 30px;
-    margin-bottom: 0px;
+    margin-bottom: -15px;
     font-family: "Oswald",sans-serif; 
     text-align: center;
 }
@@ -70,6 +72,7 @@
     margin-bottom: 20px;
     font-family: "Oswald", sans-serif;
 }
+
 .container-trails{
     color: #778899;
     text-align: center;
@@ -93,14 +96,14 @@
     color: #778899;
     font-family: "Oswald", sans-serif;
     letter-spacing: 2px;
-    background-color: #FFFAF0;
+    background-color: #ffffff;
 }
 .description p {
      list-style-type: none;
      text-align: center;
      color:#778899;
      margin: 0px;
-     background-color: #FFFAF0;
+     background-color: #ffffff;
      font-family: "Roboto", sans-serif;
 }
 
