@@ -123,19 +123,24 @@
     height: 15vw;
     object-fit: cover;
 }
-
-#center-image {
-    background: url(https://github.com/kuszturareka/mtb-nynashamn/blob/22697a4545c9c84e251200905b8b2ad25d2d4b6c/assets/images/3.jpg)
-}
-#center-image {
-    width: 300px;
-    height: 300px;
+/*https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/08_responsive_elements/05_responsive_gallery/assets/css/style.css*/
+#circle-container {
+    width: 400px;
+    height: 400px;
+    padding: 20px;
     border-style: solid;
-    border-color: #F9F103;
-    border-width: 2px;
+    border-color: #cccccc;
+    border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
-    margin-bottom: 45px;
+    margin-bottom: 15px;
+    
+}
+
+#circle-cover-bg {
+    background: url('https://pictures.ssg-service.com/172/1729950_original_1.jpg') no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
 
 
