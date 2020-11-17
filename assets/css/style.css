@@ -168,7 +168,6 @@
     margin: 0;
 }
 
-
 footer {
     height: 100px;
     background-color: #9ACD32;
@@ -205,9 +204,15 @@ footer {
     }
 }
 
-/*mobile*/
-@media (min-width: 576px) {
-    
-   
+#photo {
+    clear: both;
+    column-count: 2;
+    column-gap: 5px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    padding: 0;
+}
 
-
+#photo img{
+    width: 100%;
+}
