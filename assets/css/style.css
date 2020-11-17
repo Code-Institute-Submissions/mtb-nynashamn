@@ -99,22 +99,29 @@
     padding: 30px;
 }
 
-.container-events h5 {
+.card-body h5{
     text-align: center;
-    color: #778899;
     font-family: "Oswald", sans-serif;
+    color: #778899;
     letter-spacing: 2px;
     background-color: #ffffff;
     text-decoration: underline;
+
 }
 
-.description p {
+.card-body p {
      list-style-type: none;
      text-align: center;
      color:#778899;
      margin: 0px;
      background-color: #ffffff;
      font-family: "Roboto", sans-serif;
+}
+/*https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width*/
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
 }
 
 #center-image {
@@ -136,10 +143,6 @@
     text-align: center;
     color: #778899;
     font-family: "Oswald",sans-serif; 
-}
-
-.code-of-conduct-h5 {
-    
 }
 
 .code-of-conduct-body {
@@ -178,13 +181,12 @@ footer {
     padding: 1%;
     color: #FFFAF0;
 }
-
-/**#hero {
+#hero {
   width: 100%;
   height: 100%;
   animation-name: hero-zoom;
   animation-duration: 3s;
-  animation-fill-mode: backwards;
+  animation-fill-mode: forwards;
   overflow: hidden;
 }
 @keyframes hero-zoom {
@@ -194,4 +196,4 @@ footer {
     to{
         transform: scale(1.05);
     }
-}**/
+}
