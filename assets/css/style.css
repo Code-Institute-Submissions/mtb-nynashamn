@@ -149,11 +149,10 @@
     color: #778899;
     font-family: "Oswald",sans-serif; 
 }
-
-.code-of-conduct-body {
+ .code-of-conduct-body {
     text-align: center;
     color: #778899;
-    font-family: "Roboto",sans-serif;
+    font-family: "Roboto",sans-serif; 
 }
 
 .how-to-prepare-h4 {
@@ -168,6 +167,8 @@
     font-family: "Roboto",sans-serif;
     margin: 0;
 }
+
+
 footer {
     height: 100px;
     background-color: #9ACD32;
@@ -203,3 +204,10 @@ footer {
         transform: scale(1.05);
     }
 }
+
+/*mobile*/
+@media (min-width: 576px) {
+    
+   
+
+
