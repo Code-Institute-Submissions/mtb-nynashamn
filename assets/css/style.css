@@ -156,7 +156,7 @@
     font-family: "Roboto",sans-serif;
 }
 
-.how-to-prepare-h3 {
+.how-to-prepare-h4 {
     text-align: center;
     color: #778899;
     font-family: "Oswald",sans-serif;
@@ -166,6 +166,7 @@
     text-align: center;
     color: #778899;
     font-family: "Roboto",sans-serif;
+    margin: 0;
 }
 footer {
     height: 100px;
