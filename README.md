@@ -66,6 +66,14 @@ In this section, you should mention all of the languages, frameworks, libraries,
 JQuery
 The project uses JQuery to simplify DOM manipulation.
 
+## Technologies Used
+
+* ### Languages Used
+
+    * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+
+    * [CSS3](https://en.wikipedia.org/wiki/CSS)
+
 ## Testing
 
 * ### Testing
