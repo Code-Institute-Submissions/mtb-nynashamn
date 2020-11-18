@@ -1,10 +1,12 @@
 # MTB Nynäshamn
 
-The main purpose of this website is to form a MTB community in the city of Nynäshamn, in the southern region of the Stockholm Metropolitan Area. 
-
 Even though the number of cyclists has grown exponentially over the past 4 years, Nynäshamn still lacks a community of cyclists that is brought together by the love of this sport and the willingness to explore the Swedish nature in a different manner.
 
-Besides this, 
+The main purpose of this website is to form a MTB community in the city of Nynäshamn, in the southern region of the Stockholm Metropolitan Area. 
+
+The website mostly targets beginners of different ages. Hence, the code of conduct (which also serves as a reminder for the intermediate or advanced users), necessary equipment and the trails graded by colours with the suitable explanations. 
+
+Needless to say, everyone is welcome to our MTB sessions, as long as they have a bike with sound brakes, a helmet and a dire need for socializing. 
 
 
 ## User Experience (UX)
@@ -12,7 +14,7 @@ Besides this,
 * ### User Stories
     * **First Time Visitor Goals**
 
-        a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the community.
 
         b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
@@ -38,14 +40,12 @@ Besides this,
 * ### Design
 
     * **Colour Scheme**
+        
         The two main colours used are light slate grey and yellow green.
 
     * **Typography**
-
-    The two main fonts used are Oswald (headers) and Roboto (body), with Sans Serif as a fallback.
-
-    * **Imagery**
-    Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        
+        The two main fonts used are Oswald (headers) and Roboto (body), with Sans Serif as a fallback.
 
 
 * ### Features
@@ -58,7 +58,7 @@ For some/all of your features, you may choose to reference the specific project 
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
-## #Features Left to Implement
+* ### Features Left to Implement
 Another feature idea
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
@@ -67,22 +67,26 @@ JQuery
 The project uses JQuery to simplify DOM manipulation.
 
 ## Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+* ### Testing
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+    * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+    
+        W3C Markup Validator - Results
 
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+        W3C CSS Validator - Results
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+* ### Testing User Stories from User Experience (UX) Section
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+* ### Further Testing
+
+    The Website was tested on Google Chrome, Microsoft Edge and Opera browsers.
+
+    The website was viewed on a variety of devices such as Laptop, Huawei P30 Pro, Huawei P20 Pro and Samsung S9.
+    
+    A large amount of testing was done to ensure that all pages were linking correctly.
+    
+    Friends were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
