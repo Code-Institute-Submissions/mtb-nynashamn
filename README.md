@@ -4,9 +4,9 @@ Even though the number of cyclists has grown exponentially over the past 4 years
 
 The main purpose of this website is to form a MTB community in the city of Nynäshamn, in the southern region of the Stockholm Metropolitan Area. 
 
-The website mostly targets beginners of different ages. Hence, the code of conduct (which also serves as a reminder for the intermediate or advanced users), necessary equipment and the trails graded by colours with the suitable explanations. 
+The website mostly targets beginners of different ages and backgrounds. Hence, the code of conduct (which also serves as a reminder for the intermediate or advanced users), necessary equipment and the trails graded by colours with the suitable explanations. 
 
-Needless to say, everyone is welcome to our MTB sessions, as long as they have a bike with sound brakes, a helmet and a dire need for socializing. 
+Needless to say, everyone is welcome to our MTB sessions, as long as they have a bike with sound brakes, a helmet and a wish to join a lovely community. 
 
 
 ## **User Experience (UX)**
@@ -34,7 +34,7 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
 * ### **Wireframes**
 
-    * [Balsamiq Wireframe]()
+    * [Balsamiq Wireframe](https://balsamiq.cloud/sf5gm9p/p2ywraq/r2C91)
     * [Mockup](http://ami.responsivedesign.is/)
 
 ## **Features**
@@ -43,7 +43,7 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 * ### **Existing Features**
     * Feature 1 - [Home Page](index.html) - allows the user to get familiar with the scope of the site 
     * Feature 2 - [Trails](trails.html) - introduces the user to the types of trails available in the area
-    * Feature 3 - [Events](events.html) - presents the events that will take place 
+    * Feature 3 - [Events](events.html) - presents the events that will take place in the near future
     * Feature 4 - [Gallery](gallery.html) - showcases images from the scenic routes
  
 
