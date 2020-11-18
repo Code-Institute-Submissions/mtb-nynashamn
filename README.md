@@ -60,7 +60,6 @@ In addition, you may also use this section to discuss plans for additional featu
 
 * ### Features Left to Implement
 
-    * One of the features that will be implemented in the future is the MTB rental
 
 
 ## Technologies Used
