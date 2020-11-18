@@ -59,12 +59,9 @@ For some/all of your features, you may choose to reference the specific project 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 * ### Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+    * One of the features that will be implemented in the future is the MTB rental
+
 
 ## Technologies Used
 
@@ -73,6 +70,22 @@ The project uses JQuery to simplify DOM manipulation.
     * [HTML5](https://en.wikipedia.org/wiki/HTML5)
 
     * [CSS3](https://en.wikipedia.org/wiki/CSS)
+
+* ### Frameworks, Libraries & Programs Used
+
+    * [Bootstrap v4.4.1](https://getbootstrap.com/docs/4.4/getting-started/download/)
+
+    * [Google Fonts](https://fonts.google.com/)
+
+    * [Font Awesome](https://fontawesome.com/)
+
+    * [Hover.css](https://ianlunn.github.io/Hover/)
+
+    * [Gitpod](https://gitpod.io/)
+
+    * [GitHub](https://github.com/)
+
+    * [Balsamiq](https://balsamiq.com/)
 
 ## Testing
 
@@ -95,6 +108,9 @@ The project uses JQuery to simplify DOM manipulation.
     A large amount of testing was done to ensure that all pages were linking correctly.
     
     Friends were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+
+* ### Known Bugs
 
 ## Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
