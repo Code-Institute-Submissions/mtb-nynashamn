@@ -1,45 +1,117 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+# MTB Nynäshamn
 
-Welcome USER_NAME,
+The main purpose of this website is to form a MTB community in the city of Nynäshamn, in the southern region of the Stockholm Metropolitan Area. 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+Even though the number of cyclists has grown exponentially over the past 4 years, Nynäshamn still lacks a community of cyclists that is brought together by the love of this sport and the willingness to explore the Swedish nature in a different manner.
 
-## Gitpod Reminders
+Besides this, 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
-`python3 -m http.server`
+## User Experience (UX)
 
-A blue button should appear to click: *Make Public*,
+* ### User Stories
+    * **First Time Visitor Goals**
 
-Another blue button should appear to click: *Open Browser*.
+        a. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+        b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-A blue button should appear to click: *Make Public*,
+        c. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
-Another blue button should appear to click: *Open Browser*.
+    * **Returning Visitor Goals**
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+        a. As a Returning Visitor, I want to find information about coding challenges.
 
-## Updates Since The Instructional Video
+        b. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+        c. As a Returning Visitor, I want to find community links.
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+    * **Frequent User Goals**
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+        a. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+        b. As a Frequent User, I want to check to see if there are any new blog posts.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+        c. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+* ### Design
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+    * **Colour Scheme**
+        The two main colours used are light slate grey and yellow green.
 
---------
+    * **Typography**
 
-Happy coding!
+    The two main fonts used are Oswald (headers) and Roboto (body), with Sans Serif as a fallback.
+
+    * **Imagery**
+    Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+
+
+* ### Features
+In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+
+Existing Features
+Feature 1 - allows users X to achieve Y, by having them fill out Z
+...
+For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+
+In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
+## #Features Left to Implement
+Another feature idea
+Technologies Used
+In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+
+JQuery
+The project uses JQuery to simplify DOM manipulation.
+
+## Testing
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
+Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+
+For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+
+Contact form:
+Go to the "Contact Us" page
+Try to submit the empty form and verify that an error message about the required fields appears
+Try to submit the form with an invalid email address and verify that a relevant error message appears
+Try to submit the form with all inputs valid and verify that a success message appears.
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+## Deployment
+This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+
+In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+
+Different values for environment variables (Heroku Config Vars)?
+Different configuration files?
+Separate git branch?
+In addition, if it is not obvious, you should also describe how to run your code locally.
+
+
+## Credits
+
+### Code
+
+
+### Content
+
+* Part of information found on the home page and trail page was copied from [Forestry and Land Scotland](https://forestryandland.gov.scot/visit/activities/mountain-biking).
+* Part of information found on the home page and trails page was copied from [MTB Weekly](https://mtbweekly.com/how-to-find-mountain-biking-trails-for-beginners/)
+* The information found on the events page was taken from [Trailforks](https://www.trailforks.com/region/nynashamn/)
+
+### Media 
+
+* The full-screen hero image was obtained from [Shutterstock](https://www.shutterstock.com/image-photo/sport-cyclist-on-bike-mountain-forest-743501650)
+* The circle cover image was obtained from [SCOTT Sports](https://www.scott-sports.com/in/en/)
+
+### Acknowledgements
+I received inspiration for this project from the [Love Running Project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/8b3e9adaef764e1d962a85668c799cdd/?activate_block_id=block-v1%3ACodeInstitute%2BCF101%2B2017_T1%2Btype%40sequential%2Bblock%408b3e9adaef764e1d962a85668c799cdd) featured at the end of the HTML/CSS module and the [Whiskey Drop Project](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/a4b90d17e5c94220a0f83f00ce7fa606/2aca2c94a518427495cc1b4bc641ccbf/?child=first) and [Resume Project](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/36e3366dbdaf40fd852994c51f9f8595/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%4036e3366dbdaf40fd852994c51f9f8595) featured in the User Centric Fronted Development module. 
+
+Last, but not least, I would like to thank my mentor, Mark Railton, for helping me get through this challening first milestone project. 
