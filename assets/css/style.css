@@ -73,10 +73,6 @@
     color: #F9F103;
 }
 
-.index .col-1 p {
-    font-family: "Roboto",sans-serif; 
-}
-
 .text-uppercase {
     margin-bottom: 20px;
     font-family: "Oswald", sans-serif;
@@ -120,12 +116,14 @@
      background-color: #ffffff;
      font-family: "Roboto", sans-serif;
 }
+
 /*https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width*/
 .card-img-top {
     width: 100%;
     height: 15vw;
     object-fit: cover;
 }
+
 /*https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/08_responsive_elements/05_responsive_gallery/assets/css/style.css*/
 #circle-container {
     width: 400px;
@@ -151,22 +149,29 @@
     color: #778899;
     font-family: "Oswald",sans-serif; 
 }
+.code-of-conduct-header h3 {
+    text-decoration: underline;
+
+}
  .code-of-conduct-body {
     text-align: center;
     color: #778899;
     font-family: "Roboto",sans-serif; 
+    font-size: 90%;
 }
 
 .how-to-prepare-h4 {
     text-align: center;
     color: #778899;
     font-family: "Oswald",sans-serif;
+    text-decoration: underline;
 }
 
 .how-to-prepare-body {
     text-align: center;
     color: #778899;
     font-family: "Roboto",sans-serif;
+    font-size: 90%;
     margin: 0;
 }
 
@@ -205,7 +210,6 @@ footer {
 }
 
 
-
 @media screen and (max-width: 943px) {
     .logo{
         font-size: 80%;
@@ -214,33 +218,29 @@ footer {
 
     .nav {
         font-size: 75%;
-
     }
 }
 
 @media screen and (max-width: 450px) {
 
-  .hidden-mobile {
+.hidden-mobile {
       display: none;
   }
  #center-about {
      display: none;
  }
 
-  #circle-cover-bg {
-
-  }
-
   .logo {
       font-size: 75%;
-      clear: both;
   }
   .nav {
       font-size: 75%;
   }
-
+.index .row{
+   flex-wrap: wrap-reverse;
+}
 .index h3 {
-      font-size: 100%;
+      font-size: 140%;
   }
 .index .col p {
     display: none;
@@ -251,15 +251,16 @@ footer {
 
 .col-12 p{
     text-align: center;
-    font-size: 80%;
+    font-size: 90%;
 }
 
 .how-to-prepare-h4 {
-      font-size: 90%;
-      padding-top: 0px;
+      font-size: 130%;
   }
+
 .how-to-prepare-body {
-      font-size: 80%;
+      font-size: 90%;
+      padding: 15px;
   }
 
 .description {
