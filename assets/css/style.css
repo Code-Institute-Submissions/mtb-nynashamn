@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto|Oswald:300; 400; 500');
 
+
 .logo {
     float: left;
     font-size: 200%;
@@ -30,7 +31,7 @@
     text-decoration: underline;
 }
 
-.logo #nav {
+.logo .nav {
     line-height: 75px;
 }
 
@@ -50,10 +51,12 @@
 .container-index {
     color: #778899;
     text-align: center;
-    padding-top: 15px;
+    
+}
+.col-12 p {
+    font-size: 110%;
     padding-bottom: 15px;
 }
-
 .text-index {
     color: #778899;
     margin: 30px;
@@ -63,14 +66,14 @@
 }
 
 .container-index i {
-    font-size: 150%;
+    font-size: 125%;
 }
 
 .container-index i:hover {
     color: #F9F103;
 }
 
-.index .col p {
+.index .col-1 p {
     font-family: "Roboto",sans-serif; 
 }
 
@@ -95,8 +98,8 @@
 }
 
 .row {
-    margin: 30px;
-    padding: 30px;
+    margin: 15px;
+    padding: 15px;
 }
 
 .card-body h5{
@@ -143,7 +146,6 @@
     border-radius: 50%;
 }
 
-
 .code-of-conduct-header {
     text-align: center;
     color: #778899;
@@ -188,22 +190,6 @@ footer {
     padding: 1%;
     color: #FFFAF0;
 }
-#hero {
-  width: 100%;
-  height: 100%;
-  animation-name: hero-zoom;
-  animation-duration: 3s;
-  animation-fill-mode: forwards;
-  overflow: hidden;
-}
-@keyframes hero-zoom {
-    from {
-    transform: scale(1);
-    }
-    to {
-        transform: scale(1.05);
-    }
-}
 
 #photo {
     clear: both;
@@ -217,6 +203,92 @@ footer {
 #photo img{
     width: 100%;
 }
+
+
+
+@media screen and (max-width: 943px) {
+    .logo{
+        font-size: 80%;
+        float: inherit;
+    }
+
+    .nav {
+        font-size: 75%;
+
+    }
+}
+
+@media screen and (max-width: 450px) {
+
+  .hidden-mobile {
+      display: none;
+  }
+ #center-about {
+     display: none;
+ }
+
+  #circle-cover-bg {
+
+  }
+
+  .logo {
+      font-size: 75%;
+      clear: both;
+  }
+  .nav {
+      font-size: 75%;
+  }
+
+.index h3 {
+      font-size: 100%;
+  }
+.index .col p {
+    display: none;
+}
+.index .col i {
+    display: none;
+}
+
+.col-12 p{
+    text-align: center;
+    font-size: 80%;
+}
+
+.how-to-prepare-h4 {
+      font-size: 90%;
+      padding-top: 0px;
+  }
+.how-to-prepare-body {
+      font-size: 80%;
+  }
+
+.description {
+    display: none;
+}
+.progress {
+    display: none;
+}
+.code-of-conduct-h3 {
+    font-size: 100%;
+}
+
+.code-of-conduct-header h5 {
+    font-size: 90%;
+}
+.code-of-conduct-body p .noshow{
+    display: none;
+}
+
+#photo {
+    width: 100%;
+    column-count: 1;
+}
+ }
+
+ 
+
+
+
 
 
 
