@@ -226,8 +226,6 @@ footer {
         font-size: 90%;
     }
     
-    
-
 }
 
 @media screen and (max-width: 450px) {
@@ -293,6 +291,14 @@ footer {
 #photo {
     width: 100%;
     column-count: 1;
+}
+
+.card-img-top {
+    display: none;
+}
+.card-body {
+    padding-right: 40px;
+    margin: 0 auto;
 }
 
 footer {
