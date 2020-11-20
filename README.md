@@ -38,7 +38,7 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
     * [Balsamiq Wireframe](https://balsamiq.cloud/sf5gm9p/p2ywraq/r2C91)
     
-    ![Mockup](https://ibb.co/fr3tMKw) 
+    ![Mockup](assets/images/Mockup.jpg) 
 
 ## **Features**
 
@@ -111,6 +111,10 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
 
 * ### **Known Bugs**
+    * Events cards not aligning properly on mobile devices. Fixed by styling the padding. 
+
+    * On screens smaller than 375px, the navigation bar is not functioning properly (home button is placed under the logo).
+
 
 ## **Deployment**
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
