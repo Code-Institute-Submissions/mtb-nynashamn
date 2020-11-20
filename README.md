@@ -20,7 +20,6 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
         c. As a middle aged woman, I want to use the site to join the events and get in shape, while also spending quality time with my kids/family. 
 
-        d. As an adventurous senior, I want to use the website for information about this sport and joining a community with young people. 
 
 * ### **Design**
 
@@ -86,12 +85,17 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
     * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
     
             W3C Markup Validator - Results
-                * Home Page
-                * Trails
-                * Events 
-                * Gallery 
+                 [Home Page]()
+        
+                 [Trails]()
+        
+                 [Events]()
+        
+                 [Gallery]()
 
-            W3C CSS Validator - Results
+             Jigsaw CSS Validator - Results
+                
+
 
 * ### **Testing User Stories from User Experience (UX) Section**
 
@@ -124,18 +128,18 @@ In addition, if it is not obvious, you should also describe how to run your code
 * ### **Content**
 
     * Part of information found on the home page and trail page was copied from [Forestry and Land Scotland](https://forestryandland.gov.scot/visit/activities/mountain-biking).
-    * Part of information found on the home page and trails page was copied from [MTB Weekly](https://mtbweekly.com/how-to-find-mountain-biking-trails-for-beginners/)
-    * The information found on the events page was taken from [Trailforks](https://www.trailforks.com/region/nynashamn/)
+    * Part of information found on the home page and trails page was copied from [MTB Weekly](https://mtbweekly.com/how-to-find-mountain-biking-trails-for-beginners/).
+    * The information found on the events page was taken from [Trailforks](https://www.trailforks.com/region/nynashamn/).
 
 * ### **Media**
 
-    * The full-screen hero image was obtained from [Shutterstock](https://www.shutterstock.com/image-photo/sport-cyclist-on-bike-mountain-forest-743501650)
-    * The circle cover image was obtained from [SCOTT Sports](https://www.scott-sports.com/in/en/)
-    * The first card image from the [Events Page](events.html) was obtained from [Cottage Life](https://cottagelife.com/wp-content/uploads/2017/03/shutterstock_559052932.jpg)
-    * The second card image from the [Events Page](events.html) was obtained from [Roanoke Mountain Biking](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_444,q_75,w_654/v1/clients/roanoke/Roanoke-Mountain-Biking_ac0a77df-8b4b-4fbd-a0d5-5a2ceb7d3d44.jpg)
-    * The third card image from the [Events Page](events.html) was obtained from [The Green Trails](https://www.thegreentrails.com/wp-content/uploads/2015/03/rezdy-profile.jpg)
-    * The fourth card image from the [Events Page](events.html) was obtained from [Google Images](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mg-4841-1597155372.jpg)
-    * The fifth card image from the [Events Page](events.html) was obtained from [303 Magazine](https://images.303magazine.com/uploads/2017/06/verde-2.jpg)
+    * The full-screen hero image was obtained from [Shutterstock](https://www.shutterstock.com/image-photo/sport-cyclist-on-bike-mountain-forest-743501650).
+    * The circle cover image was obtained from [SCOTT Sports](https://www.scott-sports.com/in/en/).
+    * The first card image from the [Events Page](events.html) was obtained from [Cottage Life](https://cottagelife.com/wp-content/uploads/2017/03/shutterstock_559052932.jpg).
+    * The second card image from the [Events Page](events.html) was obtained from [Roanoke Mountain Biking](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_444,q_75,w_654/v1/clients/roanoke/Roanoke-Mountain-Biking_ac0a77df-8b4b-4fbd-a0d5-5a2ceb7d3d44.jpg).
+    * The third card image from the [Events Page](events.html) was obtained from [The Green Trails](https://www.thegreentrails.com/wp-content/uploads/2015/03/rezdy-profile.jpg).
+    * The fourth card image from the [Events Page](events.html) was obtained from [Google Images](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mg-4841-1597155372.jpg).
+    * The fifth card image from the [Events Page](events.html) was obtained from [303 Magazine](https://images.303magazine.com/uploads/2017/06/verde-2.jpg).
     * The images from the [Gallery Page](gallery.html) were obtained from [Unsplash](https://unsplash.com/s/photos/mountain-bike)
 
 ### **Acknowledgements**
