@@ -87,7 +87,8 @@
      font-family: "Roboto", sans-serif;
 }
 .card-footer{
-    background-color: #B0BA3D;
+    background-color: #494949;
+    opacity: 90%;
 }
 
 /*https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width*/
@@ -97,20 +98,22 @@
     object-fit: cover;
 }
 
-https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/04_creating_the_club_ethos/04_club_ethos_center_content_1/assets/css
+/*https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/04_creating_the_club_ethos/04_club_ethos_center_content_1/assets/css*/
+
 #circle-container {
     width: 400px;
     height: 400px;
     padding: 20px;
     border-style: solid;
-    border-color: #B0BA3D;
+    border-color:  #494949;
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
     margin-bottom: 15px;
 }
 
-https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/04_creating_the_club_ethos/04_club_ethos_center_content_1/assets/css
+/*https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/04_creating_the_club_ethos/04_club_ethos_center_content_1/assets/css*/
+
 #circle-cover-bg {
     background: url('https://pictures.ssg-service.com/172/1729950_original_1.jpg') no-repeat center center;
     height: 100%;
@@ -126,13 +129,12 @@ https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/0
     text-decoration: underline;
 
 }
- .code-of-conduct-body {
+.code-of-conduct-body {
     text-align: center;
     color: #494949;
     font-family: "Roboto",sans-serif; 
     font-size: 90%;
 }
-
 .how-to-prepare-h4 {
     text-align: center;
     color: #494949;
@@ -187,7 +189,6 @@ footer {
 @media screen and (max-width: 943px) {
     .logo{
         font-size: 100%;
-        float: inherit;
     }
 
 }
@@ -197,13 +198,14 @@ footer {
 .hidden-mobile {
       display: none;
   }
+  
  #center-about {
      display: none;
  }
 
 .logo {
       font-size: 90%;
-      text-align: center;
+      text-align: left;
   }
 
 .index .row{
@@ -265,16 +267,15 @@ footer {
 header div i{
     float: right;
     padding: 15px;
-    text-decoration: none;
+    color: #494949;
 }
 
 .active {
-  color: #494949;
+  color: #B0BA3D;
   font-size: 30px;
 }
 
-
-header div a:hover {
+header div i:hover {
   color: #B0BA3D;
   
 }
