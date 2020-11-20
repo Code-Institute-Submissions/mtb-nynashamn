@@ -10,13 +10,12 @@
     padding-left: 10px;
     text-transform: uppercase;
     background: #FFFFFF;
-    color: #9ACD32;
+    color: #494949;
     font-weight: bold;
     
 }
 
 .nav {
-    font-family: "Oswald", sans-serif;
     font-size: 110%;
     letter-spacing: 4px;
     float: right;
@@ -24,9 +23,39 @@
     padding-left: 10px;
     background-color: #FFFFFF;
     font-weight: bold;
+    overflow: hidden;
 
 }
 
+/*https://www.w3schools.com/howto/howto_js_topnav_responsive.asp*/
+
+
+.nav a {
+  float: left;
+  display: block;
+  color: #494949;
+  text-align: center;
+  padding: 5px 5px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Oswald", sans-serif;
+}
+
+.nav a:hover {
+  color: #494949;
+}
+
+.nav .icon {
+  display: none;
+}
+
+.nav.responsive {position: relative;}
+
+.nav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+} 
 .nav li:hover {
     text-decoration: underline;
 }
@@ -41,15 +70,15 @@
 
 .nav a {
     text-decoration: none;
-    color: #9ACD32;
+    color: #494949;
  }
 
 .index h3:hover {
-    color: #F9F103;
+    color: #B0BA3D;
 }
 
 .container-index {
-    color: #778899;
+    color: #494949;
     text-align: center;
     
 }
@@ -58,7 +87,7 @@
     padding-bottom: 15px;
 }
 .text-index {
-    color: #778899;
+    color: #494949;
     margin: 30px;
     margin-bottom: -15px;
     font-family: "Oswald",sans-serif; 
@@ -70,7 +99,7 @@
 }
 
 .container-index i:hover {
-    color: #F9F103;
+    color: #B0BA3D;
 }
 
 .text-uppercase {
@@ -79,7 +108,7 @@
 }
 
 .container-trails {
-    color: #778899;
+    color: #494949;
     text-align: center;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -101,7 +130,7 @@
 .card-body h5{
     text-align: center;
     font-family: "Oswald", sans-serif;
-    color: #778899;
+    color: #494949;
     letter-spacing: 2px;
     background-color: #ffffff;
     text-decoration: underline;
@@ -111,7 +140,7 @@
 .card-body p {
      list-style-type: none;
      text-align: center;
-     color:#778899;
+     color:#494949;
      margin: 0px;
      background-color: #ffffff;
      font-family: "Roboto", sans-serif;
@@ -130,7 +159,7 @@
     height: 400px;
     padding: 20px;
     border-style: solid;
-    border-color: #cccccc;
+    border-color: #494949;
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
@@ -146,7 +175,7 @@
 
 .code-of-conduct-header {
     text-align: center;
-    color: #778899;
+    color: #494949;
     font-family: "Oswald",sans-serif; 
 }
 .code-of-conduct-header h3 {
@@ -155,21 +184,21 @@
 }
  .code-of-conduct-body {
     text-align: center;
-    color: #778899;
+    color: #494949;
     font-family: "Roboto",sans-serif; 
     font-size: 90%;
 }
 
 .how-to-prepare-h4 {
     text-align: center;
-    color: #778899;
+    color: #494949;
     font-family: "Oswald",sans-serif;
     text-decoration: underline;
 }
 
 .how-to-prepare-body {
     text-align: center;
-    color: #778899;
+    color: #494949;
     font-family: "Roboto",sans-serif;
     font-size: 90%;
     margin: 0;
@@ -177,9 +206,10 @@
 
 footer {
     height: 100px;
-    background-color: #9ACD32;
+    background-color: #494949;
     padding: 1px;
     margin: 1px;
+    opacity: 75%;
 
 }
 
@@ -209,7 +239,6 @@ footer {
     width: 100%;
 }
 
-
 @media screen and (max-width: 943px) {
     .logo{
         font-size: 80%;
@@ -230,11 +259,13 @@ footer {
      display: none;
  }
 
-  .logo {
+.logo {
       font-size: 75%;
   }
-  .nav {
+.nav {
       font-size: 75%;
+      
+
   }
 .index .row{
    flex-wrap: wrap-reverse;
@@ -288,9 +319,4 @@ footer {
  }
 
  
-
-
-
-
-
 
