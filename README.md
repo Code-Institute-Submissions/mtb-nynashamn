@@ -26,7 +26,10 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
     * **Colour Scheme**
         
-        The two main colours used are light slate grey and yellow green.
+        The two main colours used are dark grey and yellow green/moderate yellow.
+        
+        Color scheme taken from [Colourco](https://colourco.de/) .
+
 
     * **Typography**
         
@@ -35,7 +38,8 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 * ### **Wireframes**
 
     * [Balsamiq Wireframe](https://balsamiq.cloud/sf5gm9p/p2ywraq/r2C91)
-    * [Mockup](http://ami.responsivedesign.is/)
+    
+    ![Mockup](https://d63d65eb-a68b-432d-a134-bf0af8121fd2.ws-eu01.gitpod.io/files/download/?id=31fa1298-8a4c-42bc-a68c-bf6fb7dd39f5)
 
 ## **Features**
 
@@ -46,8 +50,6 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
     * Feature 3 - [Events](events.html) - presents the events that will take place in the near future
     * Feature 4 - [Gallery](gallery.html) - showcases images from the scenic routes
  
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 * ### **Features Left to Implement**
     * Sign In/Up form
@@ -128,10 +130,14 @@ In addition, if it is not obvious, you should also describe how to run your code
 
     * The full-screen hero image was obtained from [Shutterstock](https://www.shutterstock.com/image-photo/sport-cyclist-on-bike-mountain-forest-743501650)
     * The circle cover image was obtained from [SCOTT Sports](https://www.scott-sports.com/in/en/)
+    * The first card image from the [Events Page](events.html) was obtained from [Cottage Life](https://cottagelife.com/wp-content/uploads/2017/03/shutterstock_559052932.jpg)
+    * The second card image from the [Events Page](events.html) was obtained from [Roanoke Mountain Biking](https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_444,q_75,w_654/v1/clients/roanoke/Roanoke-Mountain-Biking_ac0a77df-8b4b-4fbd-a0d5-5a2ceb7d3d44.jpg)
+    * The third card image from the [Events Page](events.html) was obtained from [The Green Trails](https://www.thegreentrails.com/wp-content/uploads/2015/03/rezdy-profile.jpg)
+    * The fourth card image from the [Events Page](events.html) was obtained from [Google Images](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mg-4841-1597155372.jpg)
+    * The fifth card image from the [Events Page](events.html) was obtained from [303 Magazine](https://images.303magazine.com/uploads/2017/06/verde-2.jpg)
+    * The images from the [Gallery Page](gallery.html) were obtained from [Unsplash](https://unsplash.com/s/photos/mountain-bike)
 
 ### **Acknowledgements**
 I received inspiration for this project from the [Love Running Project](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+CF101+2017_T1/courseware/1f0ccaac7a3e43d895c1beae5363f46c/8b3e9adaef764e1d962a85668c799cdd/?activate_block_id=block-v1%3ACodeInstitute%2BCF101%2B2017_T1%2Btype%40sequential%2Bblock%408b3e9adaef764e1d962a85668c799cdd) featured at the end of the HTML/CSS module and the [Whiskey Drop Project](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/a4b90d17e5c94220a0f83f00ce7fa606/2aca2c94a518427495cc1b4bc641ccbf/?child=first) and [Resume Project](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/36e3366dbdaf40fd852994c51f9f8595/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%4036e3366dbdaf40fd852994c51f9f8595) featured in the User Centric Fronted Development module. 
-
-
 
 Last, but not least, I would like to thank my mentor, Mark Railton, for helping me get through this challening first milestone project. 
