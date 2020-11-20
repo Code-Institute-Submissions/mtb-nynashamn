@@ -189,11 +189,11 @@ footer {
 
 
 @media screen and (max-width: 943px) {
-    .logo{
+    .logo {
         font-size: 100%;
     }
 
-    .index .row{
+    .index .row {
         font-size: 80%;
     }
 
@@ -225,8 +225,9 @@ footer {
     .code-of-conduct-body .col {
         font-size: 90%;
     }
-
     
+    
+
 }
 
 @media screen and (max-width: 450px) {
@@ -247,6 +248,7 @@ footer {
 .index .row{
    flex-wrap: wrap-reverse;
 }
+
 .index h3 {
       font-size: 140%;
   }
@@ -263,11 +265,11 @@ footer {
 }
 
 .how-to-prepare-h4 {
-      font-size: 130%;
+      font-size: 120%;
   }
 
 .how-to-prepare-body {
-      font-size: 90%;
+      font-size: 80%;
       padding: 15px;
   }
 
