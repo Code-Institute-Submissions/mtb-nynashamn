@@ -39,7 +39,7 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
     * [Balsamiq Wireframe](https://balsamiq.cloud/sf5gm9p/p2ywraq/r2C91)
     
-    ![Mockup](https://d63d65eb-a68b-432d-a134-bf0af8121fd2.ws-eu01.gitpod.io/files/download/?id=31fa1298-8a4c-42bc-a68c-bf6fb7dd39f5)
+    ![Mockup](https://ibb.co/fr3tMKw) 
 
 ## **Features**
 
@@ -86,6 +86,10 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
     * The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
     
             W3C Markup Validator - Results
+                * Home Page
+                * Trails
+                * Events 
+                * Gallery 
 
             W3C CSS Validator - Results
 
@@ -116,9 +120,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## **Credits**
-
-* ### **Code**
-
 
 * ### **Content**
 
