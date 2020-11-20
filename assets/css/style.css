@@ -186,6 +186,22 @@ footer {
     width: 100%;
 }
 
+header div i{
+    float: right;
+    padding: 15px;
+    color: #494949;
+}
+
+.active {
+  color: #B0BA3D;
+  font-size: 30px;
+}
+
+header div i:hover {
+  color: #B0BA3D;
+  
+}
+
 
 @media screen and (max-width: 943px) {
     .logo {
@@ -307,21 +323,6 @@ footer {
 }
 /*https://www.w3schools.com/howto/howto_css_icon_bar.asp#*/
 
-header div i{
-    float: right;
-    padding: 15px;
-    color: #494949;
-}
-
-.active {
-  color: #B0BA3D;
-  font-size: 30px;
-}
-
-header div i:hover {
-  color: #B0BA3D;
-  
-}
 
 
 
