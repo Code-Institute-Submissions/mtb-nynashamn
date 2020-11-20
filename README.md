@@ -1,5 +1,7 @@
 # **MTB Nynäshamn**
 
+![Mockup](assets/images/Mockup.jpg)
+
 Even though the number of cyclists has grown exponentially over the past 4 years, Nynäshamn still lacks a community of cyclists that is brought together by the love of this sport and the willingness to explore the Swedish nature in a different manner.
 
 The main purpose of this website is to form a MTB community in the city of Nynäshamn, in the southern region of the Stockholm Metropolitan Area. 
@@ -38,7 +40,7 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
     * [Balsamiq Wireframe](https://balsamiq.cloud/sf5gm9p/p2ywraq/r2C91)
     
-     ![Mockup](assets/images/Mockup.jpg) 
+      
 
 ## **Features**
 
