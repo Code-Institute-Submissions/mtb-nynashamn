@@ -38,7 +38,7 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
     * [Balsamiq Wireframe](https://balsamiq.cloud/sf5gm9p/p2ywraq/r2C91)
     
-    ![Mockup](assets/images/Mockup.jpg) 
+     ![Mockup](assets/images/Mockup.jpg) 
 
 ## **Features**
 
@@ -95,8 +95,9 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
              Jigsaw CSS Validator - Results
                 
-
-
+* ### **Automated Testing**
+    For the automated testing, I have used [Lighthouse](https://developers.google.com/web/tools/lighthouse). 
+    Results can be found in the [Testing](assets/testing) folder.
 * ### **Testing User Stories from User Experience (UX) Section**
      *
 
@@ -121,9 +122,9 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
     * Event cards not aligning properly on mobile devices. Fixed by styling the padding. 
 
-*    **Known Bugs left to fix** 
+* ###   **Known Bugs Left to Fix** 
 
-        * On screens smaller than 375px, the navigation bar is not functioning properly (home button is placed under the logo).
+    * On screens smaller than 375px, the navigation bar is not functioning properly (home button is placed under the logo).
 
 
 ## **Deployment**
