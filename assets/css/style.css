@@ -35,7 +35,9 @@
     font-family: "Oswald",sans-serif; 
     text-align: center;
 }
-
+.container-index {
+    font-family: "Roboto",sans-serif; 
+}
 .container-index i {
     font-size: 125%;
 }
@@ -105,7 +107,7 @@
     height: 400px;
     padding: 20px;
     border-style: solid;
-    border-color:  #494949;
+    border-color:#494949;
     border-width: 1px;
     border-radius: 50%;
     margin: 0 auto;
@@ -191,6 +193,40 @@ footer {
         font-size: 100%;
     }
 
+    .index .row{
+        font-size: 80%;
+    }
+
+    .how-to-prepare-h4 {
+        font-size: 100%;
+    }
+    .how-to-prepare-body {
+       font-size: 80%;
+    }
+     #center-about {
+        display: none;
+ }
+    .description {
+        display: none;
+    }
+
+    .container-trails h5 {
+        font-size: 100%;
+    }
+
+    .code-of-conduct-header h3 {
+        font-size: 120%;
+    }
+
+    .code-of-conduct-header h5{
+        font-size: 100%;
+    }
+
+    .code-of-conduct-body .col {
+        font-size: 90%;
+    }
+
+    
 }
 
 @media screen and (max-width: 450px) {
