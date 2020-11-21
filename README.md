@@ -104,11 +104,27 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
 * ### **Testing User Stories from User Experience (UX) Section**
 
-     *
+  * **Upon entering the site, users are automatically greeted with the logo (which is self explanatory) and an easily understandable icon bar to go to the page of their choice.**
+        
+  *  **On each page, besides the logo and the icon bar, the users can see the hero image and a body which contains a structured layout that conveys the purpose of the site, general rules, equipment and a gallery.** 
+        
+  *  **At the bottom of each page, the user will find the social icons, which will redirect him/her to the appropriate social media account, where he/she will find the necessary contact information.**
 
-     *
+  a) As a mountain biking beginner, I want to use the site for information regarding the equipment I will be needing, the rules I must follow and the types of trails I will be visiting. 
 
-     *
+    The user will be able to access the site and find relevant information regarding the purpose of the site on the home page, along with information regarding the equipment that will be needed for the advertised activity. 
+              
+    On the second page, the user will see information regarding trail types, difficulty and a code of conduct aimed at beginners and not only. 
+
+    On the third page, the user will see the schedule for future events. Events are organized weekly (Monday-Saturday) and every event is graded by color of the trail (green, blue, red, black)   
+
+        b. As a person who has recently moved to Nynäshamn, I want to use the site in order to pick up a new hobby, join the community and get to know the area where I am living. 
+
+    The user will be able to access the site and find information about MTB and the MTB community here in Nynäshamn, which hopefully will make him/her want to join or at least trigger the desire of joining. 
+    
+    By accessing the social links, the user will have the possibility of checking out the social media accounts, which contain more images from previous events
+
+        c. As a middle aged woman, I want to use the site to join the events and get in shape, while also spending quality time with my kids/family. 
 
 * ### **Further Testing**
 
@@ -125,15 +141,28 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
     * Images not loading in events.html (cards) and index.html. Fixed by using external links.
 
-    * Event cards not aligning properly on mobile devices. Fixed by styling the padding. 
+* ###   **Known Bugs** 
 
-* ###   **Known Bugs Left to Fix** 
-
-    * On some mobile devices with a resolutions of approximately 320px, the audio in the Gallery doesn't center, pushes the right margin and a white line pops up. 
+    * On some mobile devices with smaller resolutions(320px), the audio in the Gallery doesn't center, pushes the right margin and a white line pops up. 
 
 
 ## **Deployment**
 
+The project was deployed to GitHub Pages using the following steps:
+
+ 1. Log in to GitHub and locate the GitHub Repository.
+
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+
+3. Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
+
+4. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+
+5. Under "Source", click the dropdown called "None" and select "Master Branch".
+
+6. The page will automatically refresh.
+
+7. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
 
 ## **Credits**
