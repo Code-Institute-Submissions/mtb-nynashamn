@@ -121,15 +121,15 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
     3. On the third page, the user will see the schedule for future events. Events are organized weekly (Monday-Saturday) and every event is graded by color of the trail (green, blue, red, black)   
 
        
- b. As a person who has recently moved to the area, I want to use the site in order to pick up a new hobby, join the community and get to know the area where I am living. 
+  b. As a person who has recently moved to the area, I want to use the site in order to pick up a new hobby, join the community and get to know the area where I am living. 
 
-1. The user will be able to access the site and find information about MTB and the MTB community here in Nynäshamn, which hopefully will make him/her want to join or at least trigger the desire of joining. 
+    1. The user will be able to access the site and find information about MTB and the MTB community here in Nynäshamn, which hopefully will make him/her want to join or at least trigger the desire of joining. 
     
-2. By accessing the social links, the user will have the possibility of checking out the social media accounts, which contain videos, images and daily updates of the community.
+    2. By accessing the social links, the user will have the possibility of checking out the social media accounts, which contain videos, images and daily updates of the community.
 
-c. As a parent, I want to use the site to join the events and get in shape, while also spending quality time with my kids/family. 
+  c. As a parent, I want to use the site to join the events and get in shape, while also spending quality time with my kids/family. 
     
-1. The user will be able to use the site to find out when and where the events are generally taking place, if there are any updates on the social media platforms or on the site and retain information about the rules and equipment for the children and for him/herself. 
+    1. The user will be able to use the site to find out when and where the events are generally taking place, if there are any updates on the social media platforms or on the site and retain information about the rules and equipment for the children and for him/herself. 
 
 * ### **Further Testing**
 
