@@ -70,7 +70,7 @@
     padding: 15px;
 }
 
-.card-body h5{
+.card-body h5 {
     text-align: center;
     font-family: "Oswald", sans-serif;
     color: #494949;
@@ -87,7 +87,7 @@
      background-color: #ffffff;
      font-family: "Roboto", sans-serif;
 }
-.card-footer{
+.card-footer {
     background-color: #494949;
     opacity: 90%;
 }
@@ -152,7 +152,7 @@
 }
 
 footer {
-    height: 100px;
+    height: 70px;
     background-color: #494949;
     padding: 1px;
     margin: 1px;
@@ -182,11 +182,12 @@ footer {
     padding: 0;
 }
 /*https://github.com/Code-Institute-Solutions/Love-Running-Solutions/blob/master/08_responsive_elements/05_responsive_gallery/assets/css/style.css*/
-#photo img{
+#photo img {
     width: 100%;
 }
 
-header div i{
+/*https://www.w3schools.com/howto/howto_css_icon_bar.asp#*/
+header div i {
     float: right;
     padding: 15px;
     color: #494949;
@@ -198,8 +199,7 @@ header div i{
 }
 
 header div i:hover {
-  color: #B0BA3D;
-  
+  color: #B0BA3D; 
 }
 
 
@@ -215,12 +215,15 @@ header div i:hover {
     .how-to-prepare-h4 {
         font-size: 100%;
     }
+
     .how-to-prepare-body {
        font-size: 80%;
     }
+
      #center-about {
         display: none;
- }
+    }
+
     .description {
         display: none;
     }
@@ -233,7 +236,7 @@ header div i:hover {
         font-size: 120%;
     }
 
-    .code-of-conduct-header h5{
+    .code-of-conduct-header h5 {
         font-size: 100%;
     }
 
@@ -265,14 +268,16 @@ header div i:hover {
 .index h3 {
       font-size: 140%;
   }
+
 .index .col p {
     display: none;
 }
+
 .index .col i {
     display: none;
 }
 
-.col-12 p{
+.col-12 p {
     text-align: center;
     font-size: 90%;
 }
@@ -289,9 +294,11 @@ header div i:hover {
 .description {
     display: none;
 }
+
 .progress {
     display: none;
 }
+
 .code-of-conduct-h3 {
     font-size: 100%;
 }
@@ -316,12 +323,8 @@ header div i:hover {
     padding-left: 60px;
 }
 
-footer {
-    padding: 30px;
 }
 
-}
-/*https://www.w3schools.com/howto/howto_css_icon_bar.asp#*/
 
 
 
