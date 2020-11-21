@@ -100,7 +100,6 @@
 }
 
 /*https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/04_creating_the_club_ethos/04_club_ethos_center_content_1/assets/css*/
-
 #circle-container {
     width: 400px;
     height: 400px;
@@ -159,6 +158,7 @@ footer {
     opacity: 90%;
 }
 
+/*https://github.com/Code-Institute-Solutions/Love-Running-Solutions/tree/master/06_site_footer*/
 .social-networks {
     text-align: center;
 }
@@ -200,56 +200,6 @@ header div i {
 
 header div i:hover {
   color: #B0BA3D; 
-}
-
-
-@media screen and (max-width: 943px) {
-    .logo {
-        font-size: 100%;
-    }
-
-    .index .row {
-        font-size: 80%;
-    }
-
-    .how-to-prepare-h4 {
-        font-size: 100%;
-    }
-
-    .how-to-prepare-body {
-       font-size: 80%;
-    }
-
-     #center-about {
-        display: none;
-    }
-
-    .description {
-        display: none;
-    }
-
-    .container-trails h5 {
-        font-size: 100%;
-    }
-
-    .code-of-conduct-header h3 {
-        font-size: 120%;
-    }
-
-    .code-of-conduct-header h5 {
-        font-size: 100%;
-    }
-
-    .code-of-conduct-body .col {
-        font-size: 90%;
-    }
-    .card-body {
-        font-size: 80%;
-    }
-
-    .card-title {
-        font-size: 120%;
-    }
 }
 
 @media screen and (max-width: 450px) {
@@ -337,7 +287,59 @@ header div i {
 footer {
     height: 70px;
 }
+
 }
+
+@media screen and (max-width: 943px) {
+    .logo {
+        font-size: 100%;
+    }
+
+    .index .row {
+        font-size: 80%;
+    }
+
+    .how-to-prepare-h4 {
+        font-size: 100%;
+    }
+
+    .how-to-prepare-body {
+       font-size: 80%;
+    }
+
+     #center-about {
+        display: none;
+    }
+
+    .description {
+        display: none;
+    }
+
+    .container-trails h5 {
+        font-size: 100%;
+    }
+
+    .code-of-conduct-header h3 {
+        font-size: 120%;
+    }
+
+    .code-of-conduct-header h5 {
+        font-size: 100%;
+    }
+
+    .code-of-conduct-body .col {
+        font-size: 90%;
+    }
+    .card-body {
+        font-size: 80%;
+    }
+
+    .card-title {
+        font-size: 120%;
+    }
+}
+
+
 
 
 
