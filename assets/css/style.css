@@ -152,10 +152,10 @@
 }
 
 footer {
-    height: 80px;
+    height: 100px;
     background-color: #494949;
-    padding: 1px;
-    margin: 1px;
+    padding: 2px;
+    margin: 2px;
     opacity: 90%;
 }
 
@@ -332,6 +332,10 @@ header div i:hover {
 header div i {
     font-size: 55%;
     float: right;
+}
+
+footer {
+    height: 70px;
 }
 }
 
