@@ -329,6 +329,10 @@ header div i:hover {
     padding-left: 60px;
 }
 
+header div i {
+    font-size: 55%;
+    float: right;
+}
 }
 
 
