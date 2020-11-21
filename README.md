@@ -18,9 +18,9 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
         a. As a mountain biking beginner, I want to use the site for information regarding the equipment I will be needing, the rules I must follow and the types of trails I will be visiting.  
 
-        b. As a person who has recently moved to Nynäshamn, I want to use the site in order to pick up a new hobby, join the community and get to know the area where I am living. 
+        b. As a person who has recently moved to the area, I want to use the site in order to pick up a new hobby, join the community and get to know the area where I am living. 
 
-        c. As a middle aged woman, I want to use the site to join the events and get in shape, while also spending quality time with my kids/family. 
+        c. As a parent, I want to use the site to join the events and get in shape, while also spending quality time with my kids/family. 
 
 
 * ### **Design**
@@ -94,7 +94,7 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
         
     ![Gallery](assets/validation/gallery.jpg)
 
-             Jigsaw CSS Validator - Results
+        Jigsaw CSS Validator - Results
 
     ![CSS](assets/validation/jigsaw.jpg)
 
@@ -104,27 +104,32 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
 * ### **Testing User Stories from User Experience (UX) Section**
 
-  * **Upon entering the site, users are automatically greeted with the logo (which is self explanatory) and an easily understandable icon bar to go to the page of their choice.**
+  Upon entering the site, users are automatically greeted with the logo (which is self explanatory) and an easily understandable icon bar to go to the page of their choice.
         
-  *  **On each page, besides the logo and the icon bar, the users can see the hero image and a body which contains a structured layout that conveys the purpose of the site, general rules, equipment and a gallery.** 
+  On each page, besides the logo and the icon bar, the users can see the hero image and a body which contains a structured layout that conveys the purpose of the site, general rules, equipment and a gallery.
         
-  *  **At the bottom of each page, the user will find the social icons, which will redirect him/her to the appropriate social media account, where he/she will find the necessary contact information.**
+  At the bottom of each page, the user will find the social icons, which will redirect him/her to the appropriate social media accounts, where he/she will find the necessary contact information and daily updates.
+  
+  The site is responsive, so the user will have the possibility of viewing the information on smaller devices, such as mobiles or tablets.
 
   a) As a mountain biking beginner, I want to use the site for information regarding the equipment I will be needing, the rules I must follow and the types of trails I will be visiting. 
 
-    The user will be able to access the site and find relevant information regarding the purpose of the site on the home page, along with information regarding the equipment that will be needed for the advertised activity. 
+    1. The user will be able to access the site and find relevant information regarding the purpose of the site on the home page, along with information regarding the equipment that will be needed for the advertised activity. 
               
-    On the second page, the user will see information regarding trail types, difficulty and a code of conduct aimed at beginners and not only. 
+    2. On the second page, the user will see information regarding trail types, difficulty and a code of conduct aimed at beginners and not only. 
 
-    On the third page, the user will see the schedule for future events. Events are organized weekly (Monday-Saturday) and every event is graded by color of the trail (green, blue, red, black)   
+    3. On the third page, the user will see the schedule for future events. Events are organized weekly (Monday-Saturday) and every event is graded by color of the trail (green, blue, red, black)   
 
-        b. As a person who has recently moved to Nynäshamn, I want to use the site in order to pick up a new hobby, join the community and get to know the area where I am living. 
+       
+ b. As a person who has recently moved to the area, I want to use the site in order to pick up a new hobby, join the community and get to know the area where I am living. 
 
-    The user will be able to access the site and find information about MTB and the MTB community here in Nynäshamn, which hopefully will make him/her want to join or at least trigger the desire of joining. 
+1. The user will be able to access the site and find information about MTB and the MTB community here in Nynäshamn, which hopefully will make him/her want to join or at least trigger the desire of joining. 
     
-    By accessing the social links, the user will have the possibility of checking out the social media accounts, which contain more images from previous events
+2. By accessing the social links, the user will have the possibility of checking out the social media accounts, which contain videos, images and daily updates of the community.
 
-        c. As a middle aged woman, I want to use the site to join the events and get in shape, while also spending quality time with my kids/family. 
+c. As a parent, I want to use the site to join the events and get in shape, while also spending quality time with my kids/family. 
+    
+1. The user will be able to use the site to find out when and where the events are generally taking place, if there are any updates on the social media platforms or on the site and retain information about the rules and equipment for the children and for him/herself. 
 
 * ### **Further Testing**
 
@@ -143,7 +148,7 @@ Needless to say, everyone is welcome to our MTB sessions, as long as they have a
 
 * ###   **Known Bugs** 
 
-    * On some mobile devices with smaller resolutions(320px), the audio in the Gallery doesn't center, pushes the right margin and a white line pops up. 
+    * On some mobile devices with smaller resolutions(320px), the audio in the Gallery doesn't center, pushing the right margin. As such, a white gap can be seen on the right side of the page. 
 
 
 ## **Deployment**
