@@ -152,7 +152,7 @@
 }
 
 footer {
-    height: 70px;
+    height: 80px;
     background-color: #494949;
     padding: 1px;
     margin: 1px;
@@ -243,7 +243,13 @@ header div i:hover {
     .code-of-conduct-body .col {
         font-size: 90%;
     }
+    .card-body {
+        font-size: 80%;
+    }
 
+    .card-title {
+        font-size: 120%;
+    }
 }
 
 @media screen and (max-width: 450px) {
